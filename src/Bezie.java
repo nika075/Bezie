@@ -62,7 +62,7 @@ class MyPanel extends JPanel {
         GradientPaint gp = new GradientPaint(95, 95, Color.BLUE, 75, 75,
                 Color.lightGray, true);
         //w pliku z danymi mam 15 linii po 4 punkty x,y w każdym wierszu (każda kreska ma poczatek-koniec i 2 pkty kontrolne)
-        for(i=0;i<55;i++)
+        for(i=0;i<34;i++)
         {
             //wczytuje punkty dla jednej kreski
             for(j=0;j<4;j++)
